@@ -20867,6 +20867,11 @@
               </Spanner>
             <Note>
               <eid>ULldvw7aCbF_+VhC1mZvFVB</eid>
+              <Fingering>
+                <eid>+aTPsWifBjJ_0KNFUt5h6GP</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -20876,6 +20881,11 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>4bH2dZDrewO_uwZs3YGOldJ</eid>
+              <Fingering>
+                <eid>gB229fsaPOD_nz1jfgRbBiN</eid>
+                <placement>below</placement>
+                <text>2</text>
+                </Fingering>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
@@ -20892,6 +20902,11 @@
               </Spanner>
             <Note>
               <eid>HAK6YwNmfLB_9nihOuq9c1B</eid>
+              <Fingering>
+                <eid>Q4dFOgmoJBN_nXorHP43VS</eid>
+                <placement>below</placement>
+                <text>1</text>
+                </Fingering>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -20905,6 +20920,11 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>aRGsEyzwvjE_pn48BTHvCID</eid>
+              <Fingering>
+                <eid>1xeQBLnhlIM_fHHzFFLFinB</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>49</pitch>
               <tpc>9</tpc>
               </Note>
@@ -20929,6 +20949,11 @@
               </Articulation>
             <Note>
               <eid>YQWTDNfVC0G_PjM1XD3YIvF</eid>
+              <Fingering>
+                <eid>UJNbtnyG7lN_ZaWg2arMPFB</eid>
+                <placement>below</placement>
+                <text>3</text>
+                </Fingering>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -20945,6 +20970,11 @@
               </Spanner>
             <Note>
               <eid>QadVoEtfdoI_2Q6XX7GRHtP</eid>
+              <Fingering>
+                <eid>lrevMB6Y7sI_ChOIEpcdmUO</eid>
+                <placement>below</placement>
+                <text>1</text>
+                </Fingering>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -20978,6 +21008,11 @@
               </Articulation>
             <Note>
               <eid>beWOD5SsgzK_G3W2XsvJ7cG</eid>
+              <Fingering>
+                <eid>MNzeWPvYHzF_n3Kxn6XrooH</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>66</pitch>
               <tpc>8</tpc>
               </Note>
@@ -20994,6 +21029,11 @@
               </Spanner>
             <Note>
               <eid>Q9+WqLnUsfH_7lTlk4Fx/mC</eid>
+              <Fingering>
+                <eid>/UX6ukT0bxB_sBS7ALBu8JH</eid>
+                <placement>below</placement>
+                <text>3</text>
+                </Fingering>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -21013,6 +21053,11 @@
               </Spanner>
             <Note>
               <eid>RRvPirFX6MD_8Lkk+S4sckI</eid>
+              <Fingering>
+                <eid>X9yPPADVYLP_Km2TOMRHUEM</eid>
+                <placement>below</placement>
+                <text>3</text>
+                </Fingering>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -21029,6 +21074,11 @@
               </Spanner>
             <Note>
               <eid>epSSz/tnZC_rg7m5yULNKK</eid>
+              <Fingering>
+                <eid>hc3K+M83xuJ_jQzjExnWR1</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>61</pitch>
               <tpc>9</tpc>
               </Note>
@@ -21042,6 +21092,11 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>Bi+N3yAS2WH_zQwc63o93KK</eid>
+              <Fingering>
+                <eid>4efdF+0V98P_j4O4Bw7HQtM</eid>
+                <placement>below</placement>
+                <text>1</text>
+                </Fingering>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -21062,6 +21117,11 @@
               </Spanner>
             <Note>
               <eid>80FuIBe0EdD_eiJ35rGoosF</eid>
+              <Fingering>
+                <eid>IzpGyp/BfwB_pOdtOGLSv7</eid>
+                <placement>below</placement>
+                <text>2</text>
+                </Fingering>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -21078,6 +21138,11 @@
               </Spanner>
             <Note>
               <eid>iAJ7Ov5tU7G_ZfMwFVzVtcM</eid>
+              <Fingering>
+                <eid>EEHUaTzjFQJ_Cjxw65VVrYG</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -21092,6 +21157,11 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>QXhS+Q6uGrO_BvKHSHVAcCC</eid>
+              <Fingering>
+                <eid>/AaF9PpNPbF_CBkw462jahK</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -21111,6 +21181,11 @@
               </Spanner>
             <Note>
               <eid>AGqgimrsGTB_lGCAEXQUu4H</eid>
+              <Fingering>
+                <eid>Bo/QVPWcROJ_xWOvK3eszDI</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -21120,6 +21195,11 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>QFLCjMMQW5E_aUm8hjK9zsE</eid>
+              <Fingering>
+                <eid>W7k1V0+IMSI_tdjfD14dPQB</eid>
+                <placement>below</placement>
+                <text>2</text>
+                </Fingering>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -21136,6 +21216,11 @@
               </Spanner>
             <Note>
               <eid>7FlcIZFG2d_3gbVkLjwLUG</eid>
+              <Fingering>
+                <eid>cI/0j3MbNPG_FGH6JxCijQF</eid>
+                <placement>below</placement>
+                <text>1</text>
+                </Fingering>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -21149,6 +21234,11 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>NA/Cg2oOkbC_or8fMDjI+l</eid>
+              <Fingering>
+                <eid>tzEb5JaozjP_p1D+2iBUsIN</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -21169,6 +21259,11 @@
               </Spanner>
             <Note>
               <eid>qbufp/TlW6C_VCihPwhNNVE</eid>
+              <Fingering>
+                <eid>ALAhbgZlxdH_jRwdWhXpTcK</eid>
+                <placement>below</placement>
+                <text>1</text>
+                </Fingering>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -21185,6 +21280,11 @@
               </Spanner>
             <Note>
               <eid>Kz63elCvJzF_fAFY39D4TBK</eid>
+              <Fingering>
+                <eid>jPw8A6xL7iC_YN3Jo4CmbLH</eid>
+                <placement>below</placement>
+                <text>3</text>
+                </Fingering>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -21199,6 +21299,11 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>niu9NVYbHtD_zaU8AxGKJQ</eid>
+              <Fingering>
+                <eid>pXbzgjsZg9K_WLd3MPqlKaM</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -21218,6 +21323,11 @@
               </Spanner>
             <Note>
               <eid>V5qGsQqZFXF_JnTbVVEDFrF</eid>
+              <Fingering>
+                <eid>kFd//ZqQJ4C_MiM5UfCcMxD</eid>
+                <placement>below</placement>
+                <text>1</text>
+                </Fingering>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -21227,6 +21337,11 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>ICnYpldwPFD_7MWE1yd5VOI</eid>
+              <Fingering>
+                <eid>B74VbipM8/K_UxAyu6pfTTP</eid>
+                <placement>below</placement>
+                <text>1</text>
+                </Fingering>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -21243,6 +21358,11 @@
               </Spanner>
             <Note>
               <eid>yIotLUpyckG_r0ZLUquA9mJ</eid>
+              <Fingering>
+                <eid>2AtZuIim0fB_c2sKZDOgEmJ</eid>
+                <placement>below</placement>
+                <text>3</text>
+                </Fingering>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -21267,6 +21387,11 @@
               </Spanner>
             <Note>
               <eid>fLYkHbri9NP_Gnl8JE3qikN</eid>
+              <Fingering>
+                <eid>Pj2uUPpHVuH_6KGDMa89jOM</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -21283,6 +21408,11 @@
               </Spanner>
             <Note>
               <eid>caez5RabdqB_28fomHnKQ0I</eid>
+              <Fingering>
+                <eid>WRX5E016pUL_fJkI1Yt7YxI</eid>
+                <placement>below</placement>
+                <text>3</text>
+                </Fingering>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -21302,6 +21432,11 @@
               </Spanner>
             <Note>
               <eid>mY4FQQ+b5YK_AO5O88vl7nD</eid>
+              <Fingering>
+                <eid>oWYX6z8Qa/G_7qW+jkGOjyL</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -21367,6 +21502,12 @@
               </Spanner>
             <Note>
               <eid>bn239qfn8VG_bR6XN0MAlLO</eid>
+              <Fingering>
+                <eid>wutyrKn6iaJ_cWW1LqsY3bJ</eid>
+                <minDistance>-1.10405</minDistance>
+                <offset x="0" y="-2.25505"/>
+                <text>4</text>
+                </Fingering>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -21380,6 +21521,10 @@
               </Articulation>
             <Note>
               <eid>ZMeaW089J6O_tLhXbCMhX8C</eid>
+              <Fingering>
+                <eid>PXk3bAOoQnJ_/dci7YYu44</eid>
+                <text>2</text>
+                </Fingering>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -21393,6 +21538,10 @@
               </Articulation>
             <Note>
               <eid>6jhAa9r5LyK_d/Yc8MsNpUM</eid>
+              <Fingering>
+                <eid>+hAYkTvvBMH_X2OBxISqNRC</eid>
+                <text>1</text>
+                </Fingering>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -21417,6 +21566,11 @@
               </Articulation>
             <Note>
               <eid>Gaou6cRUC2M_jVxNEwhW2zI</eid>
+              <Fingering>
+                <eid>FYQWbsGsQ0_d+I4Ob1OGSI</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -21430,6 +21584,11 @@
               </Articulation>
             <Note>
               <eid>UZHazyFPxZI_+zoBDNmnrGB</eid>
+              <Fingering>
+                <eid>Amwb7y3QOpB_PX2MOZZiwhN</eid>
+                <placement>below</placement>
+                <text>2</text>
+                </Fingering>
               <pitch>54</pitch>
               <tpc>8</tpc>
               </Note>
@@ -21443,6 +21602,11 @@
               </Articulation>
             <Note>
               <eid>nSIu2DS6dwD_d5cNAlzjSnI</eid>
+              <Fingering>
+                <eid>1vQwUMZHmfF_mXYHmkbu4CG</eid>
+                <placement>below</placement>
+                <text>1</text>
+                </Fingering>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -21457,6 +21621,11 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>kCi9XTd1hKP_DzjHcqQDB/E</eid>
+              <Fingering>
+                <eid>sPhSpSNRkfC_xdEB55CRV8J</eid>
+                <placement>below</placement>
+                <text>4</text>
+                </Fingering>
               <pitch>49</pitch>
               <tpc>9</tpc>
               </Note>
