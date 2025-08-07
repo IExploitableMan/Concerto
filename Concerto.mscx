@@ -2731,10 +2731,6 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
-            <TremoloSingleChord>
-              <subtype>r16</subtype>
-              <eid>1/9AIg20MZK_SNVQfCtA2zK</eid>
-              </TremoloSingleChord>
             </Chord>
           </voice>
         </Measure>
@@ -2757,10 +2753,6 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
-            <TremoloSingleChord>
-              <subtype>r16</subtype>
-              <eid>5gze1TC4WpN_WTN5z5zkrzD</eid>
-              </TremoloSingleChord>
             </Chord>
           <Chord>
             <eid>aWbhoc0uRkP_QyAm0acjjiI</eid>
@@ -2774,10 +2766,6 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
-            <TremoloSingleChord>
-              <subtype>r16</subtype>
-              <eid>9TDYdG5yYsI_+Ee+zGsxykN</eid>
-              </TremoloSingleChord>
             </Chord>
           </voice>
         </Measure>
@@ -2826,10 +2814,6 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
-            <TremoloSingleChord>
-              <subtype>r16</subtype>
-              <eid>xRDA0+wJo1K_5WxWUKleeBP</eid>
-              </TremoloSingleChord>
             </Chord>
           </voice>
         </Measure>
@@ -2852,10 +2836,6 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
-            <TremoloSingleChord>
-              <subtype>r16</subtype>
-              <eid>o3myJ//2dlO_5eIJOq+1BQI</eid>
-              </TremoloSingleChord>
             </Chord>
           <Chord>
             <eid>FdfYOXStemF_YmijHrb2BjG</eid>
@@ -2869,10 +2849,6 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
-            <TremoloSingleChord>
-              <subtype>r16</subtype>
-              <eid>OP0yoEgjX2L_f+ZBtIxh1lO</eid>
-              </TremoloSingleChord>
             </Chord>
           </voice>
         </Measure>
@@ -2921,10 +2897,6 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
-            <TremoloSingleChord>
-              <subtype>r16</subtype>
-              <eid>j0KTuM8kVSO_SlNhFUg67YM</eid>
-              </TremoloSingleChord>
             </Chord>
           </voice>
         </Measure>
@@ -5566,10 +5538,6 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
-            <TremoloSingleChord>
-              <subtype>r16</subtype>
-              <eid>Taxl2HTmACB_a8ClBzErpLB</eid>
-              </TremoloSingleChord>
             </Chord>
           <Chord>
             <eid>WLDB/yGC24B_KVffBTPJVBP</eid>
@@ -5579,10 +5547,6 @@
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
-            <TremoloSingleChord>
-              <subtype>r16</subtype>
-              <eid>zsRzhP+qvtF_PdFtjRLeaWL</eid>
-              </TremoloSingleChord>
             </Chord>
           <Chord>
             <eid>KRHlxBt58vF_/WCRNcebMSB</eid>
@@ -5592,10 +5556,6 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
-            <TremoloSingleChord>
-              <subtype>r16</subtype>
-              <eid>06eUm+gEvHI_lrRP/pym8EC</eid>
-              </TremoloSingleChord>
             </Chord>
           </voice>
         </Measure>
@@ -5620,10 +5580,6 @@
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
-            <TremoloSingleChord>
-              <subtype>r16</subtype>
-              <eid>RFhrgh1briH_RNglkIB9tBJ</eid>
-              </TremoloSingleChord>
             </Chord>
           <Rest>
             <eid>vADJAghzGJH_irOEiKXZzV</eid>
