@@ -4547,8 +4547,6 @@
         <voice>
           <RehearsalMark>
             <eid>Gt5HbOb25sC_9gty1ScIcwL</eid>
-            <linked>
-              </linked>
             <text>7</text>
             </RehearsalMark>
           <Rest>
@@ -13510,7 +13508,6 @@ mosso</text>
           <TimeSig>
             <subtype>1</subtype>
             <eid>zm8OoG4/AHB_6HWcexRQVgN</eid>
-            <linkedMain/>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
@@ -13527,9 +13524,6 @@ mosso</text>
           <TimeSig>
             <subtype>1</subtype>
             <eid>1vkOo4IdmrJ_I0qfEFROakB</eid>
-            <linked>
-              <indexDiff>-1</indexDiff>
-              </linked>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
@@ -20538,8 +20532,19 @@ mosso</text>
         <voice>
           <Rest>
             <eid>nR365XhFbaM_/XbQCUc47e</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>half</durationType>
+            </Rest>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <eid>+BTGU3o0hTG_eEXrfUd0haF</eid>
+            </Fermata>
+          <Rest>
+            <eid>4qTqKTVfBzI_KjRqdrdV2rJ</eid>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <eid>QqsRY/CHDIN_72dobU2MZ2M</eid>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -24759,7 +24764,6 @@ mosso</text>
           <TimeSig>
             <subtype>1</subtype>
             <eid>Xo18S/73AdE_0GmetiCzEcO</eid>
-            <linkedMain/>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
@@ -24776,9 +24780,6 @@ mosso</text>
           <TimeSig>
             <subtype>1</subtype>
             <eid>JeIky2PjtIP_9VUjJClXiU</eid>
-            <linked>
-              <indexDiff>-1</indexDiff>
-              </linked>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
@@ -31298,9 +31299,20 @@ mosso</text>
       <Measure>
         <voice>
           <Rest>
-            <eid>7ecGOaypNS_hLAEUJsD10J</eid>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <eid>c0s4mH4OkXH_wgw8noX3IgC</eid>
+            <durationType>half</durationType>
+            </Rest>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <eid>eQgnEr6M/mH_YfQQCryfYxL</eid>
+            </Fermata>
+          <Rest>
+            <eid>6ybBVgqhe8E_Y0TxW5Z29GM</eid>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <eid>Cn598CoQ9fJ_sbbaLXELGwI</eid>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -33648,8 +33660,6 @@ mosso</text>
             <concertClefType>C4</concertClefType>
             <transposingClefType>C4</transposingClefType>
             <eid>D1DvLLHxfMG_YinRyFgeku</eid>
-            <linked>
-              </linked>
             </Clef>
           </voice>
         </Measure>
@@ -35805,7 +35815,6 @@ mosso</text>
           <TimeSig>
             <subtype>1</subtype>
             <eid>kBJfs5Z1qkI_v/XImDq+2c</eid>
-            <linkedMain/>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
@@ -35822,9 +35831,6 @@ mosso</text>
           <TimeSig>
             <subtype>1</subtype>
             <eid>lwd2oBEpBoB_k2VrBE1XXrL</eid>
-            <linked>
-              <indexDiff>-1</indexDiff>
-              </linked>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
